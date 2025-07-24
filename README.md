@@ -16,15 +16,14 @@ Una hermosa página web que simula una carta romántica escribiéndose línea po
 
 ## 🚀 Demo en Vivo
 
-[Ver Demo](https://tu-usuario.github.io/cartainteractivaconefecto)
+[Ver Demo](https://roimerbautista.github.io/Carta-interactiva-con-efecto)
 
-## 📱 Capturas de Pantalla
+## 📱 Vista Previa
 
-### Carta escribiéndose
-![Carta en proceso](./screenshots/typing-effect.png)
+### Carta Romántica en Acción
+![Carta Romántica Interactiva](./images/demo-preview.svg)
 
-### Sorpresa final
-![Sorpresa](./screenshots/surprise.png)
+*La carta se escribe línea por línea con efectos de corazones flotantes y un hermoso fondo animado*
 
 ## 🛠️ Tecnologías Utilizadas
 
